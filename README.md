@@ -86,7 +86,7 @@ Frontend Developer (Angular)
 ## 📬 Contact
 
 GitHub: https://github.com/Ezza-commits
-Email: [ezzashahid1@gmail.com](mailto:ezzashahid1@gmail.com)
+Email: [ezzashahid1@gmail.com]
 
 ---
 
